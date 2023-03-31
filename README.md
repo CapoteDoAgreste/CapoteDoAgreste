@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CapoteDoAgreste
 - 👀 I’m interested in Unity and Web
 - 🌱 I’m currently learning C# and Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me highhard2012@gmail.com / talis2244@gmail.com
 
 <!---
